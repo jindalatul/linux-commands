@@ -1,0 +1,4 @@
+Transfer files from windows machine to Linux without ssh certificate
+Note putty must be installed on windoes
+
+pscp c:\documents\info.txt userid@server.example.com:/tmp/foo/info.txt
